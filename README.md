@@ -1,7 +1,7 @@
 # So_long
-Create 2D game using MinilibX graphics library understanding what is minilibx library, flood fill algorithm
+Create 2D game using MinilibX graphics library understanding what is minilibx library, flood fill algorithm.<br>
 Run “make”, After getting program, pass mapfile as argument.<br>
-A valid map structure must include 1 Player, at least 1 Exit, at least 1 Collectible.<br>
++A valid map structure must include 1 Player, at least 1 Exit, at least 1 Collectible.<br>
 Must be rectangular, must be surrounded by wall(1), must has .ber extension.<br>
 No other characters than “PEC10”. The player can only be moved by “WASD”.<br>
 
